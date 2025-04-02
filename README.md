@@ -2,7 +2,7 @@
 
 Este proyecto es una app muy básica que hice con Java. Sirve para guardar y mostrar información de personas (usuarios).
 
-Este proyecto debía gestionar los datos con MySQL, pero debido a problemas con el programa y my SO (MacOs) este paso fue saltado.
+🚧 Este proyecto debía gestionar los datos con MySQL, pero debido a problemas con el programa y my SO (MacOs) este paso fue saltado.
 
 ## ¿Qué Hace?
 
